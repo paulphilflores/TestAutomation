@@ -90,7 +90,7 @@ class execute:
                     self.err_message = "object is not defined in script, please add object"
                     return self.err_message
             
-            case "sendkey":
+            case "enter":
                 if self.object == "browser_textbox":
                     input = self.testdata
                     web.implicitly_wait(0.5)
