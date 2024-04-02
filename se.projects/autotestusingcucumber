@@ -1,0 +1,28 @@
+//Checklist or Steps to start automation using Cucumber Selenium TestNG
+//first install IDE (intellij or visual studio code)
+//// install extensions inside IDE Java, Selenium Webdriver, Cucumber, Maven, TestNG
+////// https://www.oracle.com/java/technologies/downloads/#jdk22-windows
+////// https://www.browserstack.com/guide/automation-using-cucumber-selenium
+//
+//second register and install GIThub to create repo
+////https://github.com/
+////echo "# test" >> README.md
+////git init
+////add README.md
+////commit -m "first commit"
+////git branch -M main
+////git remote add origin git@github.com:paulphilflores/test.git
+////git push -u origin main
+////git config --global user.email paulphilflores@gmail.com
+////git config --global user.name paulphilflores
+////git status
+////git add --all
+////git commit -m "Comment to commit"
+////git push -u origin main
+//
+//third create new maven project
+////set JAVA_HOME
+//////for %i in (java.exe) do @echo. %~$PATH:i
+//////C:\Program Files\Common Files\Oracle\Java\javapath\ or C:\Program Files\Java\jdk-22\
+//
+//
